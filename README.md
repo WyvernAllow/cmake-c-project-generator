@@ -1,0 +1,1 @@
+Simple script for generating C project files for CMake
